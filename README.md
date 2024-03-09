@@ -1,4 +1,4 @@
-# Movie Streaming
+# Movie Streaming 1
 
 Sleek, minimalist design for immersive movie streaming experience. Enjoy intuitive controls and seamless playback on any device. This project focuses solely on the design aspect.
 
